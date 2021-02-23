@@ -1,0 +1,5 @@
+odoo14-addon-web-notify @git+https://github.com/dzungtran89/web@14.0-mig-web_notify#subdirectory=setup/web_notify
+odoo14-addon-stock-location-tray @git+https://github.com/phuctranerp/stock-logistics-warehouse@14.0-mig-stock_location_tray#subdirectory=setup/stock_location_tray
+odoo14-addon-stock-location-position @git+https://github.com/phuctranerp/stock-logistics-warehouse@14.0-mig-stock_location_position#subdirectory=setup/stock_location_position
+odoo14-addon-stock-vertical-lift @git+https://github.com/dzungtran89/stock-logistics-warehouse@14.0-mig-stock_vertical_lift#subdirectory=setup/stock_vertical_lift
+odoo14-addon-web-ir-actions-act-view-reload @git+https://github.com/paidykumar-dreambits/web@14.0-mig-web_ir_actions_act_view_reload#subdirectory=setup/web_ir_actions_act_view_reload
